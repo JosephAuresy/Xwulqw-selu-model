@@ -2,7 +2,7 @@
 
 **Data source**:\
 **Persistent web-link**:
-[[https://]{.underline}](https://www.protectedplanet.net)\
+<https://earthexplorer.usgs.gov>\
 **Temporal range**: x\
 **Spatial resolution**: 30x30 m\
 **Description and justification**. xx.\
