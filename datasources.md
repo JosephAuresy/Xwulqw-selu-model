@@ -4,7 +4,7 @@
 **Persistent web-link**:
 [[https://]{.underline}](https://www.protectedplanet.net)\
 **Temporal range**: x\
-**Spatial resolution**: x.\
+**Spatial resolution**: 30x30 m\
 **Description and justification**. xx.\
 **Preprocessing**: x\
 **Preprocessing script**: x
