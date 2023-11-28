@@ -1,4 +1,4 @@
-**Scientific notes**\
+**Scientific notes**
 
 The model calculates evapotranspiration distributed spatially considering different rainfall patterns, land cover classification, and soil types. The method used is Penman Monteith which considers variables such as canopy height, biomass, maximum depth root, and leaf area index. Different from previous reports that uses temperature methods to calculate the evapotranspiration.
 Similarly, the model estimates the groundwater discharge and recharge, water moving from the aquifer to the river and from the river to aquifer according to the season and water availability. These results are compared with the information collected in the field by Kristina Disney during the summertime of the last 3 years.
