@@ -1,5 +1,5 @@
 # Xwulqw-selu-model
-Codes related with the paper: Dissecting global change drivers impacting the magnitude and timing of ecologically critical low flows in a drying watershed
+Codes related with the draft paper: Dissecting global change drivers impacting the magnitude and timing of ecologically critical low flows in a drying watershed
 
 Repository structure:
 
