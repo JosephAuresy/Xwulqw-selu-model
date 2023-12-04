@@ -1,11 +1,10 @@
 **DEM**
 
-**Data source**:\
-**Persistent web-link**:
-<https://earthexplorer.usgs.gov>\
+**Data source**: USGS\
+**Persistent web-link**: <https://earthexplorer.usgs.gov>\
 **Temporal range**: NA\
 **Spatial resolution**: 30x30 m\
-**Description and justification**. This data is \
+**Description and justification**. This data is used for SWAT initial inputs\
 **Preprocessing**: QGIS\
 
 **Soil**
@@ -54,7 +53,7 @@ parameters in SWAT with Access.\
 
 **Wells and Pumping**
 
-**Data source**: BRitish Columbia, Groundwater Wells and Aquifers\
+**Data source**: British Columbia, Groundwater Wells and Aquifers\
 **Persistent web-link**: <https://apps.nrs.gov.bc.ca/gwells/>\
 **Temporal range**: NA\
 **Spatial resolution**: NA\
